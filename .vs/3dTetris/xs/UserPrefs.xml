@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{81DA46CF-DD1E-CBBB-016B-5B146B8C5B24}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StorPanelScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameLevelManager.cs" Line="153" Column="5" />
+      <File FileName="Assets/Scripts/GameOverPanelScript.cs" Line="59" Column="1" />
+      <File FileName="Assets/Scripts/MenuManager.cs" Line="370" Column="5" />
+      <File FileName="Assets/Scripts/StorPanelScript.cs" Line="174" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.3dTetris PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

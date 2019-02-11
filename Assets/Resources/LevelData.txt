@@ -1,0 +1,672 @@
+{
+	"level1": 
+	{
+		"levelNum": 1,
+		"speed": 5,
+		"data": 
+		[
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 7,
+			"rotation": 90,
+			"height": 1,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 3,
+			"rotation": 180,
+			"height": 2,
+			"isLast": true
+		}]
+	},
+
+	"level2": {
+		"levelNum": 2,
+		"speed": 6,
+		"data": 
+		[
+		{
+			"shapeIndex": 3,
+			"rotation": 90,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 3,
+			"rotation": 180,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 1,
+			"isLast": true
+		}
+		]
+	},
+
+	"level3": {
+		"levelNum": 3,
+		"speed": 7,
+		"data": 
+		[
+		{
+			"shapeIndex": 3,
+			"rotation": 90,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 3,
+			"rotation": 180,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 1,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 3,
+			"rotation": 90,
+			"height": 2,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 3,
+			"rotation": 180,
+			"height": 2,
+			"isLast": true
+		}
+		]
+	},
+
+	"level4": {
+		"levelNum": 4,
+		"speed": 8,
+		"data": 
+		[
+		{
+			"shapeIndex": 4,
+			"rotation": 90,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 4,
+			"rotation": 90,
+			"height": 1,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 2,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 3,
+			"rotation": 90,
+			"height": 3,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 3,
+			"rotation": 180,
+			"height": 3,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 4,
+			"isLast": true
+		}
+		]
+	},
+
+	"level5": {
+		"levelNum": 5,
+		"speed": 9,
+		"data": 
+		[
+		{
+			"shapeIndex": 17,
+			"rotation": 180,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 6,
+			"rotation": 180,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 1,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 4,
+			"rotation": 90,
+			"height": 2,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 4,
+			"rotation": 90,
+			"height": 3,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 4,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 4,
+			"rotation": 90,
+			"height": 5,
+			"isLast": true
+		}
+		]
+	},
+
+	"level6": {
+		"levelNum": 6,
+		"speed": 9,
+		"data": 
+		[
+		{
+			"shapeIndex": 9,
+			"rotation": 0,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 180,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 3,
+			"rotation": 180,
+			"height": 1,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 3,
+			"rotation": 90,
+			"height": 1,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 180,
+			"height": 2,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 9,
+			"rotation": 0,
+			"height": 2,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 4,
+			"rotation": 90,
+			"height": 3,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 4,
+			"isLast": true
+		}]
+	},
+
+	"level7": {
+		"levelNum": 7,
+		"speed": 9,
+		"data": 
+		[
+		{
+			"shapeIndex": 8,
+			"rotation": 180,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 3,
+			"rotation": 180,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 3,
+			"rotation": 90,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 3,
+			"rotation": 180,
+			"height": 1,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 3,
+			"rotation": 90,
+			"height": 1,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 3,
+			"rotation": 90,
+			"height": 2,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 7,
+			"rotation": 90,
+			"height": 2,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 8,
+			"rotation": 180,
+			"height": 3,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 4,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 5,
+			"rotation": 0,
+			"height": 4,
+			"isLast": true
+		}
+		]
+	},
+
+	"level8": {
+		"levelNum": 8,
+		"speed": 10,
+		"data": 
+		[
+		{
+			"shapeIndex": 1,
+			"rotation": 0,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 180,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 4,
+			"rotation": 90,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 0,
+			"height": 1,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 180,
+			"height": 1,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 4,
+			"rotation": 90,
+			"height": 1,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 2,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 3,
+			"rotation": 90,
+			"height": 3,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 3,
+			"rotation": 180,
+			"height": 3,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 4,
+			"isLast": true
+		}]
+	},
+
+	"level9": {
+		"levelNum": 9,
+		"speed": 10,
+		"data": 
+		[
+		{
+			"shapeIndex": 1,
+			"rotation": 0,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 180,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 1,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 270,
+			"height": 1,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 3,
+			"rotation": 180,
+			"height": 2,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 3,
+			"rotation": 90,
+			"height": 2,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 3,
+			"rotation": 270,
+			"height": 2,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 3,
+			"rotation": 0,
+			"height": 2,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 0,
+			"height": 3,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 180,
+			"height": 3,
+			"isLast": false
+		}, 
+
+		{
+			"shapeIndex": 2,
+			"rotation": 90,
+			"height": 4,
+			"isLast": true
+		}]
+	},
+
+	"level10": {
+		"levelNum": 10,
+		"speed": 11,
+		"data": 
+		[
+		{
+			"shapeIndex": 2,
+			"rotation": 0,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 2,
+			"rotation": 90,
+			"height": 1,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 1,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 8,
+			"rotation": 180,
+			"height": 2,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 8,
+			"rotation": 180,
+			"height": 3,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 2,
+			"rotation": 90,
+			"height": 4,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 4,
+			"isLast": true
+		}]
+	}, 
+
+	"level11": {
+		"levelNum": 11,
+		"speed": 11,
+		"data": 
+		[
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 0,
+			"height": 1,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 180,
+			"height": 1,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 2,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 3,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 2,
+			"rotation": 0,
+			"height": 4,
+			"isLast": false
+		}, 
+
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 5,
+			"isLast": true
+		}]
+	},
+
+	"level12": {
+		"levelNum": 12,
+		"speed": 12,
+		"data": 
+		[
+		{
+			"shapeIndex": 4,
+			"rotation": 90,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 180,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 0,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 4,
+			"rotation": 90,
+			"height": 1,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 2,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 4,
+			"rotation": 90,
+			"height": 3,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 4,
+			"isLast": false
+		},
+		{
+			"shapeIndex": 4,
+			"rotation": 90,
+			"height": 5,
+			"isLast": true
+		}
+		]
+	},
+
+	"level13": {
+		"levelNum": 13,
+		"speed": 12,
+		"data": 
+		[
+		{
+			"shapeIndex": 1,
+			"rotation": 0,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 180,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 4,
+			"rotation": 90,
+			"height": 0,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 4,
+			"rotation": 90,
+			"height": 1,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 2,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 4,
+			"rotation": 90,
+			"height": 3,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 90,
+			"height": 4,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 4,
+			"rotation": 90,
+			"height": 5,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 180,
+			"height": 5,
+			"isLast": false
+		}, 
+		{
+			"shapeIndex": 1,
+			"rotation": 0,
+			"height": 5,
+			"isLast": true
+		}
+		]
+	}
+}
